@@ -1,20 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>车易达</title>
-  <icon>https://www.gravatar.com/avatar/39a74e32a46285594061a07dda6fb5eb</icon>
+  <icon>https://www.gravatar.com/avatar/ef8249d261e78ac63478bdc72a27d843</icon>
   <subtitle>一个来自上海市的平平无奇的初中生</subtitle>
   <link href="https://mrche.top/atom.xml" rel="self"/>
   
   <link href="https://mrche.top/"/>
-  <updated>2024-09-05T15:17:05.492Z</updated>
+  <updated>2024-09-12T12:47:07.313Z</updated>
   <id>https://mrche.top/</id>
   
   <author>
     <name>车易达</name>
-    <email>im.cxyd@outlook.com</email>
+    <email>ct-network@outlook.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《颠佬论》</title>
+    <link href="https://mrche.top/2024/09/12/%E3%80%8A%E9%A2%A0%E4%BD%AC%E8%AE%BA%E3%80%8B/"/>
+    <id>https://mrche.top/2024/09/12/%E3%80%8A%E9%A2%A0%E4%BD%AC%E8%AE%BA%E3%80%8B/</id>
+    <published>2024-09-12T12:05:49.000Z</published>
+    <updated>2024-09-12T12:47:07.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;还在写，没那么快&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《郑重声明》</title>
+    <link href="https://mrche.top/2024/09/12/%E3%80%8A%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%E3%80%8B/"/>
+    <id>https://mrche.top/2024/09/12/%E3%80%8A%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%E3%80%8B/</id>
+    <published>2024-09-12T12:04:54.000Z</published>
+    <updated>2024-09-12T12:32:11.747Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;各位八（5）班的同学们：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大家好！我是车易达，班级男班长，同时也是电脑管理员和道法课代表。**&lt;u&gt;近日，有部分同学无视我的警告，公然否定我的身份，在此，我郑重声明如下：&lt;/u&gt;**&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;作为班长，</summary>
+        
+      
+    
+    
+    
+    
+    <category term="声明" scheme="https://mrche.top/tags/%E5%A3%B0%E6%98%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown 使用教程：从入门到精通</title>
